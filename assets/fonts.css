@@ -1,0 +1,64 @@
+@font-face {
+  font-family: 'Nujom Arabic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(ar-0.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Nujom Arabic';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(ar-1.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Nujom Arabic';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(ar-2.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Nujom Arabic';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(ar-3.woff2) format('truetype');
+}
+
+@font-face {
+  font-family: 'Nujom Latin';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(en-0.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Nujom Latin';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(en-1.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Nujom Latin';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(en-2.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Nujom Latin';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(en-3.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Nujom Latin';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(en-4.woff2) format('truetype');
+}
